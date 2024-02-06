@@ -1,0 +1,3 @@
+Menganalisis soal
+Menyelesaikan menggunakan array
+menggunakan repatation dengan for
