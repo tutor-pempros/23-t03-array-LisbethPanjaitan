@@ -1,4 +1,4 @@
-// 12S23041 - Lisbeth Panjaitan
+// 12S23041 - Lisbeth Panjaitan 
 
 #include <stdio.h>
 
